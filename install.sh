@@ -2,7 +2,7 @@
 # Copyright (C) 2017 PerfectlySoft Inc.
 # Author: Jonathan Guthrie <jono@perfect.com>
 
-WEBLOC=https://swift.org/builds/swift-4.1.1-release/ubuntu1604/swift-4.1.1-RELEASE/swift-4.1.1-RELEASE-ubuntu16.04.tar.gz
+WEBLOC=https://swift.org/builds/swift-4.2-branch/ubuntu1604/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a/swift-4.2-DEVELOPMENT-SNAPSHOT-2018-08-03-a-ubuntu16.04.tar.gz
 SWIFTNAME=$(basename $WEBLOC)
 MYDIR=$(dirname $0)
 MYNAME=$(basename $0)
